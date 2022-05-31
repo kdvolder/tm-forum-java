@@ -4,6 +4,6 @@ metadata:
   name: tmf-product-catalog-management-api-java
 spec:
   git:
-    url: https://github.com/tsalm-pivotal/tm-forum-java.git
+    url: https://github.com/kdvolder/tm-forum-java.git
     ref:
       branch: open-rewrite-recipe
